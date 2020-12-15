@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="Github" />
+  <component name="PublishConfigData" serverName="Github" uploadOnCheckin="ba538dd9-9328-4a06-aea0-6a1b02735d8a">
+    <option name="myUploadOnCheckinName" value="Github" />
+  </component>
 </project>
